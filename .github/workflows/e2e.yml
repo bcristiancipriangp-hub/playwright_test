@@ -27,4 +27,4 @@ jobs:
       if: always()
       with:
         name: TestResults
-        path: test-results
+        path: test-results/
